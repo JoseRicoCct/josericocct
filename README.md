@@ -76,7 +76,7 @@ Feel free to explore my work and connect:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josericodata/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://josericodata.github.io/"><img src="https://img.shields.io/badge/PortfolioWeb-0077B5?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://josericodata.github.io/"><img src="https://img.shields.io/badge/WebPortfolio-0077B5?style=flat&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://josericodata.github.io/assets/transcript/Transcript_MSc_Data_Analytics_sba23021.pdf"><img src="https://img.shields.io/badge/MScTranscript-0077B5?style=flat&logo=google-drive&logoColor=white" alt="Transcript"></a>
   <a href="https://josericodata.github.io/assets/CV/Jose_Rico_CV.pdf"><img src="https://img.shields.io/badge/CV-0077B5?style=flat&logo=readme&logoColor=white" alt="CV"></a>
 </p>
