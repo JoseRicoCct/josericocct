@@ -74,6 +74,14 @@ Feel free to explore my work and connect:
   <a href="https://josericodata.github.io/assets/CV/Jose_Rico_CV.pdf"><img src="https://img.shields.io/badge/CV-0077B5?style=flat&logo=readme&logoColor=white" alt="CV"></a>
 </p>
 
+## Archive Notice 📂  
+
+This GitHub account serves as an **archive** for the projects, code, and materials created during my MSc in Data Analytics at **CCT College Dublin**.  
+
+Please note that this account is no longer actively updated.  
+
+To explore my ongoing projects and stay up-to-date with my work, visit my personal GitHub account: [@josericodata](https://github.com/josericodata).
+
 
 ## You are visitor <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
 ![Visitor Count](https://profile-counter.glitch.me/{josericocct}/count.svg)
