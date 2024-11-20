@@ -1,9 +1,9 @@
-# MSc in Data Analytics GitHub Account
-**CCT College Dublin, Ireland**
+# MSc in Data Analytics GitHub Account 🖥️ 
 
+## CCT College Dublin, Ireland 🎓 
 Welcome to the **MSc Data Analytics GitHub repository**, dedicated exclusively to showcasing the projects, code, and materials I have used and developed during my Master of Science in Data Analytics at **CCT College Dublin**. The program commenced in September 2023 and concluded in October 2024. This repository highlights my academic journey, the technical skills gained, and the applied research undertaken throughout the program.
 
-## About the Program  
+## About the Program 📘
 The MSc in Data Analytics at **CCT College Dublin** is a structured program designed to equip graduates with advanced tools, techniques, and methodologies to analyze, interpret, and visualize data effectively. The program spans three semesters:  
 
 - **Semester 1:** Focused on foundational subjects to build core competencies in machine learning, data preparation, statistics, and programming.  
@@ -11,7 +11,7 @@ The MSc in Data Analytics at **CCT College Dublin** is a structured program desi
 - **Semester 3:** Dedicated entirely to a capstone project titled *"Federated Learning: Evaluating Popular Frameworks and Developing a Cross-Client Horizontal Server."* This project focused on bridging the gap between academic Federated Learning (FL) frameworks and real-world FL systems. The research involved building a horizontal FL server for binary classification and image classification tasks, demonstrating improvements in accuracy for non-IID data scenarios while highlighting challenges such as communication issues and infrastructure limitations.
 
 
-### Modules & Grades
+### Modules & Grades 📝
 | **Module**                                | **Credits** | **Grade (%)** | **Result** |
 |-------------------------------------------|-------------|---------------|------------|
 | **Semester 1**                            |             |               |            |
@@ -29,7 +29,7 @@ The MSc in Data Analytics at **CCT College Dublin** is a structured program desi
 
 
 
-## Results Summary  
+## Results Summary 🏆
 - **Cohort:** PG24480 - MSc in Data Analytics (L9)  
 - **Completion:** October 2024
 - **Award Classification:** Second-class Honours  
@@ -37,7 +37,7 @@ The MSc in Data Analytics at **CCT College Dublin** is a structured program desi
 
 
 
-## Key Highlights  
+##  Key Highlights ✨
 This repository includes code and documentation from the following projects:  
 - **Machine Learning for Data Analytics:** Implementation of Random Forest, K-Nearest Neighbors, and Neural Networks on various datasets.  
 - **Data Preparation & Visualisation:** Data cleaning and exploratory data analysis (EDA) using Python libraries such as `pandas` and `seaborn`.  
@@ -46,7 +46,7 @@ This repository includes code and documentation from the following projects:
 
 
 
-## Skills Demonstrated  
+## Skills Demonstrated 🛠️ 
 - **Programming:** Python, R, SQL  
 - **Machine Learning Techniques:** Decision Trees, Neural Networks, CNNs  
 - **Big Data Ecosystem:** Hadoop, Spark, MongoDB, Hive  
@@ -55,8 +55,7 @@ This repository includes code and documentation from the following projects:
 
 
 
-## Graduation Ceremony 🎓  
-
+##  Graduation Ceremony 🎓
 The last day of this beautiful journey was the graduation ceremony held on the **23rd of November 2024** at the **Convention Centre Dublin (CCD)** in Dublin, Ireland. This event marked the culmination of hard work, dedication, and countless learning experiences throughout my MSc program.  
 
 <p align="center">
@@ -64,7 +63,15 @@ The last day of this beautiful journey was the graduation ceremony held on the *
 </p>
 
 
-## Connect with Me  
+## Archive Notice 📂
+
+This GitHub account serves as an **archive** for the projects, code, and materials created during my MSc in Data Analytics at **CCT College Dublin**.  
+
+Please note that this account is no longer actively updated.  
+
+To explore my ongoing projects and stay up-to-date with my work, visit my personal GitHub account: [@josericodata](https://github.com/josericodata).
+
+## Connect with Me 🌐
 Feel free to explore my work and connect:  
 
 <p align="center">
@@ -73,14 +80,6 @@ Feel free to explore my work and connect:
   <a href="https://josericodata.github.io/assets/transcript/Transcript_MSc_Data_Analytics_sba23021.pdf"><img src="https://img.shields.io/badge/MScTranscript-0077B5?style=flat&logo=google-drive&logoColor=white" alt="Transcript"></a>
   <a href="https://josericodata.github.io/assets/CV/Jose_Rico_CV.pdf"><img src="https://img.shields.io/badge/CV-0077B5?style=flat&logo=readme&logoColor=white" alt="CV"></a>
 </p>
-
-## Archive Notice 📂  
-
-This GitHub account serves as an **archive** for the projects, code, and materials created during my MSc in Data Analytics at **CCT College Dublin**.  
-
-Please note that this account is no longer actively updated.  
-
-To explore my ongoing projects and stay up-to-date with my work, visit my personal GitHub account: [@josericodata](https://github.com/josericodata).
 
 
 ## You are visitor <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
