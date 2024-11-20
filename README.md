@@ -33,7 +33,7 @@ I recently graduated with a Master of Science in Data Analytics from CCT College
 </p>
 
 ### You are visitor <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
-![Visitor Count](https://profile-counter.glitch.me/{josericodata}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{josericocct}/count.svg)
 
 <p align="center">
   <img src="assets/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
