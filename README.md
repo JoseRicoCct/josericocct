@@ -60,17 +60,20 @@ The last day of this beautiful journey was the graduation ceremony held on the *
 
 <p align="center">
   <img src="assets/graduation.jpg" alt="After the graduation, super happy with the parchement in hand!" width="600">
+  <figcaption>After the graduation, super happy with the parchment in hand!</figcaption>
 </p>
-<figcaption>After the graduation, super happy with the parchment in hand!</figcaption>
+
 <p align="center">
   <img src="assets/graduation.png" alt="Class of 2024" width="600">
+  <figcaption>Class of 2024</figcaption>
 </p>
-<figcaption>Class of 2024</figcaption>
+
 
 <p align="center">
   <img src="assets/graduation1.jpg" alt="Arriving early in the morning for the ceremony!!" width="600">
+  <figcaption>Arriving early in the morning for the ceremony!!</figcaption>
 </p>
- <figcaption>Arriving early in the morning for the ceremony!!</figcaption>
+ 
 
 
 ## Archive Notice 📂
