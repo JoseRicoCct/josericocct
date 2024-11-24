@@ -60,12 +60,17 @@ The last day of this beautiful journey was the graduation ceremony held on the *
 
 <div align="center">
   <img src="assets/graduation.jpg" alt="After the graduation, super happy with the parchment in hand!" width="600">
-  <p>After the graduation, super happy with the parchment in hand!</p>
+  <p>After the graduation, super happy with the parchment in hand 😁!</p>
+</div>
+
+<div align="center">
+  <img src="assets/graduation1.jpg" alt="After the graduation, super happy with the parchment in hand!" width="600">
+  <p>On the left is my sister Lorena, and on the right is my love Ana. Thank you both for your support during my MSc; this would have been impossible without you ❤️❤️!!</p>
 </div>
 
 <div align="center">
   <img src="assets/graduation.png" alt="Class of 2024" width="600">
-  <p>Class of 2024</p>
+  <p>Class of 2024 🎓</p>
 </div>
 
 <div align="center">
