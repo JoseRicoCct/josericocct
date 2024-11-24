@@ -42,7 +42,7 @@ This repository includes code and documentation from the following projects:
 - **Machine Learning for Data Analytics:** Implementation of Random Forest, K-Nearest Neighbors, and Neural Networks on various datasets.  
 - **Data Preparation & Visualisation:** Data cleaning and exploratory data analysis (EDA) using Python libraries such as `pandas` and `seaborn`.  
 - **Big Data Storage & Processing:** Projects on distributed data processing using Hadoop, Spark, and MapReduce.  
-- **Capstone Project:** A research-driven exploration of Federated Learning for secure and decentralized machine learning.
+- **Capstone Project:** A research-driven exploration of Federated Learning that experiments with popular Federated Learning frameworks and introduces a new approach to narrow the gap between these frameworks and real-world Federated Learning scenarios.
 
 
 
@@ -58,21 +58,21 @@ This repository includes code and documentation from the following projects:
 ##  Graduation Ceremony 🎓
 The last day of this beautiful journey was the graduation ceremony held on the **23rd of November 2024** at the **Convention Centre Dublin (CCD)** in Dublin, Ireland. This event marked the culmination of hard work, dedication, and countless learning experiences throughout my MSc program. I will never forget the **Class of 2024!!!**
 
-<p align="center">
-  <img src="assets/graduation.jpg" alt="After the graduation, super happy with the parchement in hand!" width="600">
-  <figcaption>After the graduation, super happy with the parchment in hand!</figcaption>
-</p>
+<div align="center">
+  <img src="assets/graduation.jpg" alt="After the graduation, super happy with the parchment in hand!" width="600">
+  <p>After the graduation, super happy with the parchment in hand!</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="assets/graduation.png" alt="Class of 2024" width="600">
-  <figcaption>Class of 2024</figcaption>
-</p>
+  <p>Class of 2024</p>
+</div>
 
-
-<p align="center">
+<div align="center">
   <img src="assets/graduation1.jpg" alt="Arriving early in the morning for the ceremony!!" width="600">
-  <figcaption>Arriving early in the morning for the ceremony!!</figcaption>
-</p>
+  <p>Arriving early in the morning for the ceremony!!</p>
+</div>
+
  
 
 
