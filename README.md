@@ -56,10 +56,18 @@ This repository includes code and documentation from the following projects:
 
 
 ##  Graduation Ceremony 🎓
-The last day of this beautiful journey was the graduation ceremony held on the **23rd of November 2024** at the **Convention Centre Dublin (CCD)** in Dublin, Ireland. This event marked the culmination of hard work, dedication, and countless learning experiences throughout my MSc program.  
+The last day of this beautiful journey was the graduation ceremony held on the **23rd of November 2024** at the **Convention Centre Dublin (CCD)** in Dublin, Ireland. This event marked the culmination of hard work, dedication, and countless learning experiences throughout my MSc program. I will never forget the **Class of 2024!!!**
 
 <p align="center">
-  <img src="assets/graduation.png" alt="Graduation Ceremony at CCD" width="600">
+  <img src="assets/graduation.jpg" alt="After the graduation, super happy with the parchement in hand!" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/graduation.png" alt="Class of 2024" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/graduation.png" alt="Arriving early in the morning for the ceremony!!" width="600">
 </p>
 
 
