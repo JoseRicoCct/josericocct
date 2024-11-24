@@ -74,7 +74,7 @@ The last day of this beautiful journey was the graduation ceremony held on the *
 </div>
 
 <div align="center">
-  <img src="assets/graduation1.jpg" alt="Arriving early in the morning for the ceremony!!" width="600">
+  <img src="assets/graduation2.jpg" alt="Arriving early in the morning for the ceremony!!" width="600">
   <p>Arriving early in the morning for the ceremony!!</p>
 </div>
 
